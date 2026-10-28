@@ -1,2 +1,2 @@
-# Rajat0897-RajatSawant_Zara_Capstone
+# Rajat0897-Rajat_Zara_Capstone
 Zara retail data analytics capstone project
