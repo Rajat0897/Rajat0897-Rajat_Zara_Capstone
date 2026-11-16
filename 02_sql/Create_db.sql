@@ -1,0 +1,2 @@
+CREATE DATABASE zara1;
+USE zara1;
