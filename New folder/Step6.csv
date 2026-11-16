@@ -1,0 +1,30 @@
+Category,Sub_Category,net_sales_usd,gross_margin_pct,avg_price_usd_per_unit,avg_cost_usd_per_unit,pct_units_on_markdown
+Kids,"Kids Shoes",1596707,47.1,27.01,14.21,27.1
+Kids,Girls,2728351,48.3,19.16,9.87,26.1
+Kids,Baby,1490928,48.3,18.08,9.32,24.6
+Kids,Boys,2422836,49,19.98,10.15,25.0
+Man,"Coats and Jackets",10977590,50.6,102.17,50.23,29.1
+Man,Shoes,3994025,51.4,64.46,31.2,25.3
+Woman,Shoes,6727813,51.8,63.20,30.35,22.9
+Woman,"Coats and Trench Coats",9307904,53.3,119.17,55.46,22.7
+Man,"Knitwear and Sweatshirts",4149031,54.1,37.90,17.35,28.5
+Man,"Blazers and Suits",8266772,56.2,98.71,43.16,17.7
+Woman,Blazers,7369478,56.5,75.04,32.57,16.3
+Woman,Jackets,5207374,56.6,64.85,28.08,17.4
+Woman,Knitwear,5172190,56.7,37.64,16.24,25.0
+Woman,Dresses,7531337,57.9,42.89,17.98,19.0
+Woman,T-Shirts,2088808,57.9,14.77,6.21,18.1
+Woman,Bags,2971462,58.2,41.57,17.39,19.0
+Man,Overshirts,2744437,58.6,46.94,19.41,17.6
+Woman,Skirts,2539877,58.7,34.19,14.06,21.0
+Woman,Trousers,5148121,59,40.12,16.39,17.4
+Man,"Trousers and Shorts",3129969,59.4,36.96,14.98,17.8
+Man,Jeans,3990235,60,43.60,17.41,14.5
+Woman,"Shirts and Blouses",5818075,60.4,36.95,14.59,18.4
+Man,"T-Shirts and Polos",2662442,60.4,22.27,8.82,18.5
+Man,Shirts,4925002,60.6,38.12,14.98,16.3
+Woman,Jeans,6470649,61.3,40.42,15.6,14.7
+Woman,"Tops and Bodysuits",3004784,62.4,21.59,8.11,18.0
+Woman,Accessories,1395355,63.8,18.94,6.85,16.4
+Woman,Perfumes,1871802,75.4,24.68,6.06,NULL
+Man,Perfumes,874353,76,24.79,5.95,NULL

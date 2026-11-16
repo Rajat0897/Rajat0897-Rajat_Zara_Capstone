@@ -1,0 +1,30 @@
+Category,Sub_Category,units_sold,units_returned,return_rate_pct
+Woman,Jeans,197698,37075,18.75
+Woman,Dresses,213335,37123,17.40
+Woman,Shoes,123703,16780,13.56
+Man,Jeans,106029,14294,13.48
+Woman,Trousers,148362,19756,13.32
+Man,Shoes,71218,9010,12.65
+Woman,Blazers,112194,13774,12.28
+Woman,Skirts,84941,10412,12.26
+Man,"Blazers and Suits",94951,10983,11.57
+Man,"Trousers and Shorts",94800,9916,10.46
+Woman,Jackets,89394,8919,9.98
+Woman,"Coats and Trench Coats",86928,8622,9.92
+Kids,"Kids Shoes",65659,6309,9.61
+Woman,Knitwear,151733,13969,9.21
+Woman,"Shirts and Blouses",173538,15779,9.09
+Man,"Coats and Jackets",118608,10663,8.99
+Man,Shirts,141285,11854,8.39
+Kids,Boys,131377,9717,7.40
+Kids,Girls,154224,11246,7.29
+Man,"Knitwear and Sweatshirts",118360,8481,7.17
+Woman,"Tops and Bodysuits",150050,10743,7.16
+Man,Overshirts,63033,4493,7.13
+Kids,Baby,87517,4862,5.56
+Man,"T-Shirts and Polos",126126,6483,5.14
+Woman,T-Shirts,148988,7484,5.02
+Woman,Bags,74293,2782,3.74
+Woman,Accessories,75934,2230,2.94
+Woman,Perfumes,76640,786,1.03
+Man,Perfumes,35612,340,0.95

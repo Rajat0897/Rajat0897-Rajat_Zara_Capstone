@@ -1,0 +1,4 @@
+report_row,from_date,to_date,units,net_sales_usd,margin_usd,margin_pct
+"Selected period",2024-12-20,2025-01-02,13143.0,496967,236162,47.5
+"Period before",2024-12-06,2024-12-19,6796.0,333665,201372,60.4
+"Change (%; margin_pct = points)",NULL,NULL,93.4,48.9,17.3,-12.8
